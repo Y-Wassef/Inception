@@ -15,15 +15,10 @@
 ## Setup & Installation
 
 1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/inception.git
-   ```
-
 2. **Navigate to the project directory**:
 
    ```bash
-   cd inception
+   cd Inception
    ```
 
 3. **Run the Makefile** to build and set up the environment:
