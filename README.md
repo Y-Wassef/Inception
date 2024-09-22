@@ -15,19 +15,22 @@
 ## Setup & Installation
 
 1. **Clone the repository**:
-2. **Navigate to the project directory**:
+   ```
+   git clone git@github.com:Y-Wassef/Inception.git
+   ```
+3. **Navigate to the project directory**:
 
    ```bash
    cd Inception
    ```
 
-3. **Run the Makefile** to build and set up the environment:
+4. **Run the Makefile** to build and set up the environment:
 
    ```bash
    make
    ```
 
-4. **Access the WordPress site**:
+5. **Access the WordPress site**:
 
    Visit `https://localhost` in your browser.
 
